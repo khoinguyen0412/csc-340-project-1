@@ -22,13 +22,10 @@
     </footer>
   </template>
   
-  <script setup>
-  // No additional JavaScript is needed in this case
-  </script>
-  
   <style scoped>
   footer {
-    position: fixed;
+    margin-top: auto;
+    position: sticky;
     bottom: 0;
     width: 100%;
   }

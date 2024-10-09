@@ -4,13 +4,13 @@
         <!-- Name Input -->
         <div>
           <label for="name">Name:</label>
-          <input type="text" id="name" v-model="formData.name" required />
+          <input type="text" id="name"  required />
         </div>
   
         <!-- Email Input -->
         <div>
           <label for="email">Email:</label>
-          <input type="email" id="email" v-model="formData.email" required />
+          <input type="email" id="email"  required />
         </div>
   
         <!-- Submit Button -->
@@ -18,29 +18,14 @@
       </form>
   
       <!-- Display Submitted Data -->
-      <div v-if="submitted">
-        <h3>Submitted Data:</h3>
-        <p>Name: {{ formData.name }}</p>
-        <p>Email: {{ formData.email }}</p>
-      </div>
     </div>
   </template>
   
   <script>
   export default {
-    data() {
-      return {
-        formData: {
-          name: '',
-          email: ''
-        },
-        submitted: false
-      };
-    },
     methods: {
       handleSubmit() {
         this.submitted = true;
-        console.log('Form Data:', this.formData);
       }
     }
   };

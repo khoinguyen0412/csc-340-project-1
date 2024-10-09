@@ -16,8 +16,9 @@ import FormElement from './FormElement.vue';
     <!-- Image -->
     <img src="../assets/pho_vn_food.jpg" alt="Delicious Vietnamese Food" class="vietfood-image">
     <img src="../assets/bun_bo_hue_vn_food.jpg" alt="Delicious Vietnamese Food" class="vietfood-image">
-      <FormElement></FormElement>
   </div>
+  <FormElement></FormElement>
+
 </template>
 
 <script>
