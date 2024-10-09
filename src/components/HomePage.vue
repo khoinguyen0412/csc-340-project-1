@@ -1,5 +1,6 @@
 <script setup>
 import FormElement from './FormElement.vue';
+import Menu from './Menu.vue';
 </script>
 
 <template>
@@ -16,6 +17,8 @@ import FormElement from './FormElement.vue';
     <!-- Image -->
     <img src="../assets/pho_vn_food.jpg" alt="Delicious Vietnamese Food" class="vietfood-image">
     <img src="../assets/bun_bo_hue_vn_food.jpg" alt="Delicious Vietnamese Food" class="vietfood-image">
+    <Menu></Menu>
+      <FormElement></FormElement>
   </div>
   <FormElement></FormElement>
 
