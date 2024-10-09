@@ -1,5 +1,6 @@
 <template>
-    <div>
+    <div class="form-container">
+        <h1>Enter your contact info for further updates</h1>
       <form @submit.prevent="handleSubmit">
         <!-- Name Input -->
         <div>
@@ -52,6 +53,10 @@
     margin-bottom: 10px;
   }
   
+  .form-container{
+    margin-top: 100px;
+  }
+
   button {
     padding: 10px 15px;
     background-color: #42b983;

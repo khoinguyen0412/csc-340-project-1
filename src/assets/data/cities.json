@@ -1,0 +1,11 @@
+
+{
+    "city_list": [
+        { "id": 1, "name": "New York", "country": "USA" },
+        { "id": 2, "name": "Tokyo", "country": "Japan" },
+        { "id": 3, "name": "Paris", "country": "France" },
+        { "id": 4, "name": "Sydney", "country": "Australia" },
+        { "id": 5, "name": "Berlin", "country": "Germany" }
+    ]
+}
+  
