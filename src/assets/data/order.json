@@ -1,0 +1,45 @@
+{
+    "vietfood_menu": [
+      {
+        "name": "Pho",
+        "description": "A traditional Vietnamese soup consisting of broth, rice noodles, herbs, and meat, usually made with beef (pho bo) or chicken (pho ga)."
+      },
+      {
+        "name": "Banh Mi",
+        "description": "A Vietnamese sandwich that consists of a crispy baguette filled with meats, vegetables, and condiments such as pâté, pickled carrots, daikon, and cilantro."
+      },
+      {
+        "name": "Bun Bo Hue",
+        "description": "A spicy Vietnamese soup containing rice vermicelli and beef, flavored with lemongrass and topped with various herbs and vegetables."
+      },
+      {
+        "name": "Com Tam",
+        "description": "A Vietnamese dish made from fractured rice grains, often served with grilled pork, egg, and pickled vegetables."
+      },
+      {
+        "name": "Goi Cuon",
+        "description": "Vietnamese fresh spring rolls made with rice paper and typically filled with shrimp, pork, fresh vegetables, and vermicelli noodles, served with a dipping sauce."
+      },
+      {
+        "name": "Cha Gio",
+        "description": "Vietnamese fried spring rolls made with a mixture of ground pork, mushrooms, and glass noodles, wrapped in rice paper and deep-fried."
+      },
+      {
+        "name": "Ca Kho To",
+        "description": "A savory caramelized fish dish cooked in a clay pot with fish sauce, sugar, and pepper, served with rice."
+      },
+      {
+        "name": "Banh Xeo",
+        "description": "A Vietnamese savory pancake filled with shrimp, pork, and bean sprouts, served with lettuce and herbs."
+      },
+      {
+        "name": "Bun Cha",
+        "description": "A Vietnamese dish of grilled pork served with vermicelli noodles, fresh herbs, and a dipping sauce."
+      },
+      {
+        "name": "Hu Tieu",
+        "description": "A noodle soup made with a clear and savory broth, served with different types of meat and seafood, and topped with herbs and vegetables."
+      }
+    ]
+  }
+  
